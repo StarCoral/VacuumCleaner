@@ -1,6 +1,6 @@
 /**
  *
- * @author YEN-CHU,CHU
+ * @author StarCoral
  */
 package vacuumcleaner;
 import java.util.*;
